@@ -1,4 +1,4 @@
-<center><img width="100px" heigth="100px" src="https://1.bp.blogspot.com/-Ow0VUsjQCv0/XiMg_aS_61I/AAAAAAAABCY/OdXdDn75ZFUbg6wNvNfSdczxnC5I4FdfQCNcBGAsYHQ/s1600/kucing.jpeg" /></center>
+<center><img width="100px" heigth="100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.depositphotos.com%2Fstock-photos%2Fdaun-pepaya.html&psig=AOvVaw2cW_Iy4QWo_Ad2Urgb_R8f&ust=1634735206498000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjFo67F1vMCFQAAAAAdAAAAABAD" /></center>
 
 # Dataset
 Dataset untuk menyimpan file berupa objek  foto daun pepaya dan lidah buaya untuk proses identifikasi pada program 
