@@ -1,4 +1,5 @@
-<img src="Dataset/pepaya/001.jpg" />
+<img src="Dataset/pepaya/001.jpg"style="width: 160px;border-radius: 10px;" />
+<img src="Dataset/lidah buaya/001.jpg"style="width: 160px;border-radius: 10px;" />
 
 # Dataset
 Dataset untuk menyimpan file berupa objek  foto daun pepaya dan lidah buaya untuk proses identifikasi pada program 
